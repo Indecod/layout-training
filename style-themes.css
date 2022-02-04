@@ -223,10 +223,21 @@ p.contacts-name {
 
 .learning 
 {
-background-color: #20B2AA;
-color:#800000;
+color:#077710;
 margin: 5% auto;
 width: 410px;
 font-size: 14px;
 line-height: 24px;
+}
+
+blockquote {
+  padding-left: 14px;
+  border-left: 2px solid #6a2cce;
+
+  color: #6a2cce;
+}
+
+aside {
+  margin: 20px 0;
+  color: #ff0000;
 }
