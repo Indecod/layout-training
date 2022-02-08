@@ -106,13 +106,16 @@ a:focus {
    width: 147px;
    height: 147px;
    border-radius: 50%;
+   float: left;
  }
 
 .about-content {
    width: 410px;
    font-size: 14px;
    line-height: 24px;
+   border: 5px solid #2d508f;
  }
+
 
 .about-content p {
    margin: 0;
@@ -225,9 +228,12 @@ p.contacts-name {
 {
 color:#077710;
 margin: 5% auto;
-width: 410px;
 font-size: 14px;
 line-height: 24px;
+width: 410px;
+padding-bottom: 0px;
+padding-top: 0px;
+
 }
 
 blockquote {
@@ -240,4 +246,10 @@ blockquote {
 aside {
   margin: 20px 0;
   color: #ff0000;
+}
+
+.sites-map{
+  width: 410px;
+  font-size: 14px;
+  line-height: 24px;
 }
