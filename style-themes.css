@@ -233,6 +233,7 @@ line-height: 24px;
 width: 410px;
 padding-bottom: 0px;
 padding-top: 0px;
+margin-top: 0px;
 
 }
 
@@ -252,10 +253,15 @@ aside {
   width: 410px;
   font-size: 18px;
   line-height: 24px;
+  margin-bottom: 0%;
+
   
 }
 .about-me-title{
   margin-left: 20px;
   font-family:"Segoe UI"; 
   font-size: 30px;
+}
+.gif-main{
+  margin-left: 540px;
 }
